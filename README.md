@@ -1,2 +1,2 @@
 # hello-world
-Initial repository.
+Here is the initial gitHub repository.
